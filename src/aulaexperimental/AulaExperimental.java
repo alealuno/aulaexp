@@ -17,10 +17,7 @@ public class AulaExperimental {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Essa é a aula experimental!!!");
-        
-        
-        
+        System.out.println("Essa aula é muitooo legal! Todos estão muito felizes e animados!!!");
     }
     
 }
